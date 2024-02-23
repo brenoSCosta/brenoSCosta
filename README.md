@@ -23,8 +23,19 @@
 
 🔧 On the back-end, I have primarily worked with Python, developing scalable and efficient services that drive the business logic behind applications.
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
 📱 Additionally, I'm delving into the world of mobile development with Flutter, building elegant and functional interfaces that provide a consistent user experience across different platforms.
 
 🚀 I'm always seeking to learn and improve, and I'm open to collaborations and new challenges that allow me to expand my skill set and contribute to innovative projects.
 
 Let's create something awesome together!
+
